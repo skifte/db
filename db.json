@@ -1,0 +1,164 @@
+{
+    "invoices": [
+        {
+            "InvoiceDate": "2021-02-09",
+            "InvoiceId": 1,
+            "FromDate": "01.01.2021",
+            "ToDate": "01.02.2021",
+            "InvoiceAmount": 1546.25,
+            "InvoiceMonthName": "Januar",
+            "InvoiceYear": 2021,
+            "EstimatedInvoiceAmountWithNewGridHire": 1474.805113000,
+            "MaxEffectValueForInvoicePeriod": 10.581,
+            "ConsumptionForInvoicePeriod": 3015.864
+        },
+        {
+            "InvoiceDate": "2021-03-09",
+            "InvoiceId": 2,
+            "FromDate": "01.02.2021",
+            "ToDate": "01.03.2021",
+            "InvoiceAmount": 1351.26,
+            "InvoiceMonthName": "Februar",
+            "InvoiceYear": 2021,
+            "EstimatedInvoiceAmountWithNewGridHire": 1143.561784000,
+            "MaxEffectValueForInvoicePeriod": 9.93,
+            "ConsumptionForInvoicePeriod": 2548.672
+        },
+        {
+            "InvoiceDate": "2021-04-08",
+            "InvoiceId": 3,
+            "FromDate": "01.03.2021",
+            "ToDate": "01.04.2021",
+            "InvoiceAmount": 1224.96,
+            "InvoiceMonthName": "Mars",
+            "InvoiceYear": 2021,
+            "EstimatedInvoiceAmountWithNewGridHire": 1062.240153500,
+            "MaxEffectValueForInvoicePeriod": 7.32,
+            "ConsumptionForInvoicePeriod": 2246.068
+        },
+        {
+            "InvoiceDate": "2021-05-07",
+            "InvoiceId": 4,
+            "FromDate": "01.04.2021",
+            "ToDate": "01.05.2021",
+            "InvoiceAmount": 1105.37,
+            "InvoiceMonthName": "April",
+            "InvoiceYear": 2021,
+            "EstimatedInvoiceAmountWithNewGridHire": 1317.644935250,
+            "MaxEffectValueForInvoicePeriod": 14.431,
+            "ConsumptionForInvoicePeriod": 1959.582
+        },
+        {
+            "InvoiceDate": "2021-06-08",
+            "InvoiceId": 5,
+            "FromDate": "01.05.2021",
+            "ToDate": "01.06.2021",
+            "InvoiceAmount": 948.07,
+            "InvoiceMonthName": "Mai",
+            "InvoiceYear": 2021,
+            "EstimatedInvoiceAmountWithNewGridHire": 1239.176497250,
+            "MaxEffectValueForInvoicePeriod": 14.019,
+            "ConsumptionForInvoicePeriod": 1712.998
+        },
+        {
+            "InvoiceDate": "2021-07-07",
+            "InvoiceId": 6,
+            "FromDate": "01.06.2021",
+            "ToDate": "01.07.2021",
+            "InvoiceAmount": 686.29,
+            "InvoiceMonthName": "Juni",
+            "InvoiceYear": 2021,
+            "EstimatedInvoiceAmountWithNewGridHire": 1023.346494125,
+            "MaxEffectValueForInvoicePeriod": 13.838,
+            "ConsumptionForInvoicePeriod": 1034.153
+        },
+        {
+            "InvoiceDate": "2021-08-07",
+            "InvoiceId": 7,
+            "FromDate": "01.07.2021",
+            "ToDate": "01.08.2021",
+            "InvoiceAmount": 651.85,
+            "InvoiceMonthName": "Juli",
+            "InvoiceYear": 2021,
+            "EstimatedInvoiceAmountWithNewGridHire": 985.334441750,
+            "MaxEffectValueForInvoicePeriod": 13.192,
+            "ConsumptionForInvoicePeriod": 944.834
+        },
+        {
+            "InvoiceDate": "2021-09-07",
+            "InvoiceId": 8,
+            "FromDate": "01.08.2021",
+            "ToDate": "01.09.2021",
+            "InvoiceAmount": 710.35,
+            "InvoiceMonthName": "August",
+            "InvoiceYear": 2021,
+            "EstimatedInvoiceAmountWithNewGridHire": 1043.532285500,
+            "MaxEffectValueForInvoicePeriod": 14.028,
+            "ConsumptionForInvoicePeriod": 1096.504
+        },
+        {
+            "InvoiceDate": "2021-10-07",
+            "InvoiceId": 9,
+            "FromDate": "01.09.2021",
+            "ToDate": "01.10.2021",
+            "InvoiceAmount": 797.19,
+            "InvoiceMonthName": "September",
+            "InvoiceYear": 2021,
+            "EstimatedInvoiceAmountWithNewGridHire": 1081.037187125,
+            "MaxEffectValueForInvoicePeriod": 13.862,
+            "ConsumptionForInvoicePeriod": 1221.197
+        },
+        {
+            "InvoiceDate": "2021-11-06",
+            "InvoiceId": 10,
+            "FromDate": "01.10.2021",
+            "ToDate": "01.11.2021",
+            "InvoiceAmount": 952.15,
+            "InvoiceMonthName": "Oktober",
+            "InvoiceYear": 2021,
+            "EstimatedInvoiceAmountWithNewGridHire": 1196.058602375,
+            "MaxEffectValueForInvoicePeriod": 13.162,
+            "ConsumptionForInvoicePeriod": 1592.459
+        },
+        {
+            "InvoiceDate": "2021-12-06",
+            "InvoiceId": 11,
+            "FromDate": "01.11.2021",
+            "ToDate": "01.12.2021",
+            "InvoiceAmount": 1122.65,
+            "InvoiceMonthName": "November",
+            "InvoiceYear": 2021,
+            "EstimatedInvoiceAmountWithNewGridHire": 1156.990940500,
+            "MaxEffectValueForInvoicePeriod": 9.449,
+            "ConsumptionForInvoicePeriod": 2000.964
+        },
+        {
+            "InvoiceDate": "2021-12-06",
+            "InvoiceId": 12,
+            "FromDate": "01.12.2021",
+            "ToDate": "01.01.2022",
+            "InvoiceAmount": 1122.65,
+            "InvoiceMonthName": "Desember",
+            "InvoiceYear": 2021,
+            "EstimatedInvoiceAmountWithNewGridHire": 1156.990940500,
+            "MaxEffectValueForInvoicePeriod": 13.23,
+            "ConsumptionForInvoicePeriod": 2000.964
+        }
+    ],
+    "eligibleDeliveryPoints": [
+        {
+            "DeliveryPointIdentification": "b61xjpgy5Men2yJRdYBV",
+            "FlattenedAddress": "Rockegata 12, 1337 Bygda",
+            "Description": "Bolig",
+            "MeterId": "73123456789",
+            "MeteringPointId": "7070123456789"
+        }
+    ],
+    "selectedDeliveryPoint": {
+        "DeliveryPointIdentification": "b61xjpgy5Men2yJRdYBV",
+        "FlattenedAddress": "Rockegata 12, 1337 Bygda",
+        "Description": "Bolig",
+        "MeterId": "73123456789",
+        "MeteringPointId": "7070123456789"
+    }
+}
