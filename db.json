@@ -3,6 +3,7 @@
         {
             "InvoiceDate": "2021-02-09",
             "InvoiceId": 1,
+            "id": 1,
             "FromDate": "01.01.2021",
             "ToDate": "01.02.2021",
             "InvoiceAmount": 1546.25,
@@ -15,6 +16,7 @@
         {
             "InvoiceDate": "2021-03-09",
             "InvoiceId": 2,
+            "id": 2,
             "FromDate": "01.02.2021",
             "ToDate": "01.03.2021",
             "InvoiceAmount": 1351.26,
