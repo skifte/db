@@ -1,9 +1,8 @@
 {
-    "invoices": [
+    "InvoicesWithNewGridHire": [
         {
             "InvoiceDate": "2021-02-09",
-            "InvoiceId": 1,
-            "id": 1,
+            "InvoiceId": 11365330,
             "FromDate": "01.01.2021",
             "ToDate": "01.02.2021",
             "InvoiceAmount": 1546.25,
@@ -11,12 +10,11 @@
             "InvoiceYear": 2021,
             "EstimatedInvoiceAmountWithNewGridHire": 1474.805113000,
             "MaxEffectValueForInvoicePeriod": 10.581,
-            "ConsumptionForInvoicePeriod": 3015.864
+            "ConsumptionForInvoicePeriod": 118.860
         },
         {
             "InvoiceDate": "2021-03-09",
-            "InvoiceId": 2,
-            "id": 2,
+            "InvoiceId": 11580275,
             "FromDate": "01.02.2021",
             "ToDate": "01.03.2021",
             "InvoiceAmount": 1351.26,
@@ -24,11 +22,11 @@
             "InvoiceYear": 2021,
             "EstimatedInvoiceAmountWithNewGridHire": 1143.561784000,
             "MaxEffectValueForInvoicePeriod": 9.93,
-            "ConsumptionForInvoicePeriod": 2548.672
+            "ConsumptionForInvoicePeriod": 86.848
         },
         {
             "InvoiceDate": "2021-04-08",
-            "InvoiceId": 3,
+            "InvoiceId": 11794583,
             "FromDate": "01.03.2021",
             "ToDate": "01.04.2021",
             "InvoiceAmount": 1224.96,
@@ -36,11 +34,11 @@
             "InvoiceYear": 2021,
             "EstimatedInvoiceAmountWithNewGridHire": 1062.240153500,
             "MaxEffectValueForInvoicePeriod": 7.32,
-            "ConsumptionForInvoicePeriod": 2246.068
+            "ConsumptionForInvoicePeriod": 85.637
         },
         {
             "InvoiceDate": "2021-05-07",
-            "InvoiceId": 4,
+            "InvoiceId": 12012037,
             "FromDate": "01.04.2021",
             "ToDate": "01.05.2021",
             "InvoiceAmount": 1105.37,
@@ -48,11 +46,11 @@
             "InvoiceYear": 2021,
             "EstimatedInvoiceAmountWithNewGridHire": 1317.644935250,
             "MaxEffectValueForInvoicePeriod": 14.431,
-            "ConsumptionForInvoicePeriod": 1959.582
+            "ConsumptionForInvoicePeriod": 73.692
         },
         {
             "InvoiceDate": "2021-06-08",
-            "InvoiceId": 5,
+            "InvoiceId": 12229034,
             "FromDate": "01.05.2021",
             "ToDate": "01.06.2021",
             "InvoiceAmount": 948.07,
@@ -60,11 +58,11 @@
             "InvoiceYear": 2021,
             "EstimatedInvoiceAmountWithNewGridHire": 1239.176497250,
             "MaxEffectValueForInvoicePeriod": 14.019,
-            "ConsumptionForInvoicePeriod": 1712.998
+            "ConsumptionForInvoicePeriod": 76.923
         },
         {
             "InvoiceDate": "2021-07-07",
-            "InvoiceId": 6,
+            "InvoiceId": 12445151,
             "FromDate": "01.06.2021",
             "ToDate": "01.07.2021",
             "InvoiceAmount": 686.29,
@@ -72,11 +70,11 @@
             "InvoiceYear": 2021,
             "EstimatedInvoiceAmountWithNewGridHire": 1023.346494125,
             "MaxEffectValueForInvoicePeriod": 13.838,
-            "ConsumptionForInvoicePeriod": 1034.153
+            "ConsumptionForInvoicePeriod": 52.421
         },
         {
             "InvoiceDate": "2021-08-07",
-            "InvoiceId": 7,
+            "InvoiceId": 12661342,
             "FromDate": "01.07.2021",
             "ToDate": "01.08.2021",
             "InvoiceAmount": 651.85,
@@ -84,11 +82,11 @@
             "InvoiceYear": 2021,
             "EstimatedInvoiceAmountWithNewGridHire": 985.334441750,
             "MaxEffectValueForInvoicePeriod": 13.192,
-            "ConsumptionForInvoicePeriod": 944.834
+            "ConsumptionForInvoicePeriod": 74.749
         },
         {
-            "InvoiceDate": "2021-09-07",
-            "InvoiceId": 8,
+            "InvoiceDate": "2021-09-16",
+            "InvoiceId": 12872960,
             "FromDate": "01.08.2021",
             "ToDate": "01.09.2021",
             "InvoiceAmount": 710.35,
@@ -96,11 +94,11 @@
             "InvoiceYear": 2021,
             "EstimatedInvoiceAmountWithNewGridHire": 1043.532285500,
             "MaxEffectValueForInvoicePeriod": 14.028,
-            "ConsumptionForInvoicePeriod": 1096.504
+            "ConsumptionForInvoicePeriod": 51.817
         },
         {
             "InvoiceDate": "2021-10-07",
-            "InvoiceId": 9,
+            "InvoiceId": 91234567,
             "FromDate": "01.09.2021",
             "ToDate": "01.10.2021",
             "InvoiceAmount": 797.19,
@@ -112,7 +110,7 @@
         },
         {
             "InvoiceDate": "2021-11-06",
-            "InvoiceId": 10,
+            "InvoiceId": 10123456,
             "FromDate": "01.10.2021",
             "ToDate": "01.11.2021",
             "InvoiceAmount": 952.15,
@@ -124,7 +122,7 @@
         },
         {
             "InvoiceDate": "2021-12-06",
-            "InvoiceId": 11,
+            "InvoiceId": 11123456,
             "FromDate": "01.11.2021",
             "ToDate": "01.12.2021",
             "InvoiceAmount": 1122.65,
@@ -136,7 +134,7 @@
         },
         {
             "InvoiceDate": "2021-12-06",
-            "InvoiceId": 12,
+            "InvoiceId": 12123456,
             "FromDate": "01.12.2021",
             "ToDate": "01.01.2022",
             "InvoiceAmount": 1122.65,
@@ -147,20 +145,151 @@
             "ConsumptionForInvoicePeriod": 2000.964
         }
     ],
-    "eligibleDeliveryPoints": [
+    "DeliveryPoint": {
+        "DeliveryPointId": 123123,
+        "Address": {
+            "Munincipality": null,
+            "EntranceFloorFlat": null,
+            "AddressGridOwner": null,
+            "HoldingNumber": null,
+            "LeaseNumber": null,
+            "Section": null,
+            "SubHoldingNumber": null,
+            "FlattenedAddress": "Limisvingen 16, 3721 SKIEN",
+            "HtmlFormattedAddress": "Limisvingen 16\u003cbr/\u003e3721 SKIEN",
+            "NumericPostalCode": 3721,
+            "AddressWithoutSpaces": "limisvingen163721skien",
+            "PrimaryLine": "Limisvingen 16",
+            "StreetNumber": null,
+            "StreetName": null,
+            "HouseNumber": null,
+            "HouseLetter": null,
+            "PostalBox": null,
+            "SecondaryLine": null,
+            "PostalCode": "3721",
+            "AbroadPostalCode": null,
+            "AbroadPostalOffice": null,
+            "City": "SKIEN",
+            "Source": null,
+            "Comment": null,
+            "Country": null,
+            "IsCompanyAddress": false
+        },
+        "Description": "Bolig",
+        "MeteringPointId": "707057500042303795",
+        "MeterMethod": "T",
+        "GridOwner": 10000390,
+        "GridOwnerId": null,
+        "GridOwnerName": "Lede AS",
+        "GridAreaId": null,
+        "InternalGridAreaId": null,
+        "GridAreaName": null,
+        "GLN": "7080005050975",
+        "PowerSupplierName": null,
+        "IsInternal": true,
+        "Meters": [
+            {
+                "Id": "7359992895914895",
+                "HourlyRead": true,
+                "Counters": [
+                    {
+                        "Id": 802837,
+                        "Description": "Aktiv energi",
+                        "Unit": "KWH",
+                        "NumberOfDigits": 8,
+                        "NumberOfDecimals": 3,
+                        "ReadingCounterId": 1266082,
+                        "YearlyConsumption": 21775,
+                        "CounterConstant": 1,
+                        "HourlyRead": true,
+                        "TariffCounterDescription": null,
+                        "CounterCode": null,
+                        "TimeSeries": 1,
+                        "Direction": 1
+                    }
+                ],
+                "Manufacturer": "AIDON"
+            }
+        ],
+        "HourlyRead": true,
+        "RemotelyRead": true,
+        "OperatingUnit": {
+            "Id": "1",
+            "Type": "EL",
+            "SubType": "DI",
+            "Description": "Nettleie Lede ",
+            "EnterpriseTypeDescription": null,
+            "IsPliktOperatingUnit": false,
+            "ActorId": null
+        },
+        "MeterReadingNotification": {
+            "NotificationType": 3,
+            "EmailAddress": null,
+            "MobileNumber": null,
+            "Customized": false,
+            "SalesOrderCustomizedReadingMaterial": false,
+            "SalesOrderCustomizedReadingMaterialNumber": null,
+            "ContactPersonSerialNumber": 0
+        },
+        "AccountHolder": null,
+        "LastMeterReading": null,
+        "IsActive": false,
+        "OutageNotification": null,
+        "AutoOutageNotification": {
+            "CustomerId": 321321,
+            "SalesOrderSerialNumber": 0,
+            "FromDate": "\/Date(1536184800000)\/",
+            "ToDate": null,
+            "NotificationCode": "VSU",
+            "NotificationMethodCode": "S",
+            "NotificationDescription": null,
+            "EmailAddress": null,
+            "MobileNumber": null,
+            "NotificationId": 400899,
+            "DeliveryPointId": 123123,
+            "RolesPerDp": [],
+            "NotificationMethodCodeUnplanned": "S"
+        },
+        "InstallationId": "10735",
+        "SiteId": "001",
+        "PointNumber": 1,
+        "PointType": "F",
+        "IsTerminated": false,
+        "ProfileToHourlyDate": null,
+        "MeterConstant": 1,
+        "IsEligibleForPowerSales": false,
+        "HasProduction": false,
+        "PlusCustomer": false,
+        "MeteringPointType": 0,
+        "DeliveryObligationDate": null,
+        "ConsumptionTaxDeclarationDate": null,
+        "HasTariffWithNewGridHireModel": false,
+        "HANPortStatusChangePossible": true,
+        "HANPortStatus": null,
+        "HANPortStatusAsString": null,
+        "IsFavorite": false,
+        "ConsumptionCode": null,
+        "ManuallyReadCounter": null,
+        "SettlementMethod": 0,
+        "YearlyConsumption": 21775,
+        "MeteringPointTypeAsString": "Consumption",
+        "SettlementMethodAsString": "Profiled",
+        "InternalId": "039c54dd-969a-4226-b90b-a4814c52177a"
+    },
+    "SelectedDeliveryPoint": {
+        "DeliveryPointIdentification": "b61xjpgy5Men2yJRdYBV",
+        "FlattenedAddress": "Rockegata 1, 3721 Rock city",
+        "Description": "Bolig",
+        "MeterId": "7359123123",
+        "MeteringPointId": "7070123123123"
+    },
+    "EligibleDeliveryPoints": [
         {
             "DeliveryPointIdentification": "b61xjpgy5Men2yJRdYBV",
-            "FlattenedAddress": "Rockegata 12, 1337 Bygda",
+            "FlattenedAddress": "Rockegata 1, 3721 Rock city",
             "Description": "Bolig",
-            "MeterId": "73123456789",
-            "MeteringPointId": "7070123456789"
+            "MeterId": "7359123123",
+            "MeteringPointId": "7070123123123"
         }
-    ],
-    "selectedDeliveryPoint": {
-        "DeliveryPointIdentification": "b61xjpgy5Men2yJRdYBV",
-        "FlattenedAddress": "Rockegata 12, 1337 Bygda",
-        "Description": "Bolig",
-        "MeterId": "73123456789",
-        "MeteringPointId": "7070123456789"
-    }
+    ]
 }
