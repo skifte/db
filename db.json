@@ -159,6 +159,13 @@
             "Description": "Bolig",
             "MeterId": "7359123123",
             "MeteringPointId": "7070123123123"
+        },
+        {
+            "DeliveryPointIdentification": "xx1xjpgy5Men2yJRdYBV",
+            "FlattenedAddress": "Rockegata 1, 3721 Rock city",
+            "Description": "Leilighet",
+            "MeterId": "7359123122",
+            "MeteringPointId": "7070123123122"
         }
     ]
 }
