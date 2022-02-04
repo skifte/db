@@ -161,8 +161,15 @@
             "MeteringPointId": "7070123123123"
         },
         {
-            "DeliveryPointIdentification": "xx1xjpgy5Men2yJRdYBV",
+            "DeliveryPointIdentification": "xx1xjpgy5Men2yJRdYYY",
             "FlattenedAddress": "Rockegata 2, 3721 Rock city",
+            "Description": "Leilighet",
+            "MeterId": "7359123122",
+            "MeteringPointId": "7070123123122"
+        },
+        {
+            "DeliveryPointIdentification": "yy1xjpgy5Men2yJRdYBV",
+            "FlattenedAddress": "Tromsøgata 10, 3700",
             "Description": "Leilighet",
             "MeterId": "7359123122",
             "MeteringPointId": "7070123123122"
